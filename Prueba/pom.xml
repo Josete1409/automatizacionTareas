@@ -25,7 +25,7 @@
 					</descriptorRefs>
 					<archive>
 						<manifest>
-							<mainClass>​Main​2</mainClass>
+							<mainClass>​prueba.Prueba</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
