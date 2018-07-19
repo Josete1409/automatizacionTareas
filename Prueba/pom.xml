@@ -25,7 +25,7 @@
 					</descriptorRefs>
 					<archive>
 						<manifest>
-							<mainClass>​prueba.Prueba</mainClass>
+							<mainClass>​testSelenium.TestSelenium</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
@@ -39,7 +39,6 @@
 					</execution>
 				</executions>
 			</plugin>
-
 		</plugins>
 	</build>
 	<dependencies>
