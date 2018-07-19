@@ -1,0 +1,1 @@
+java -jar C:\Users\Teknei\git\automatizacionTareas\Prueba\target\testSelenium.jar Tarjetas+Graficas
